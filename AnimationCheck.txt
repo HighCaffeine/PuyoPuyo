@@ -1,0 +1,33 @@
+UpperRight_UpToRight O
+UpperRight_RightToDown O
+UpperRight_LeftToUp O
+UpperRight_WallRotate1 안됨
+UpperRight_WallRotate2 5 -> 16
+UpperRight_FloorRotate O
+UpperRight_HoleRotate1
+UpperRight_StairRotate
+UpperLeft_HoleRotate1
+UpperLeft_WallRotate2 O
+UpperLeft_WallRotate1 안됨
+UpperLeft_RightToUp O
+UpperLeft_DownToRight O
+UpperLeft_LeftToDown O
+UpperLeft_UpToLeft O
+UpperRight_DownToLeft O
+UpperLeft_FloorRotate O
+UpperLeft_StairRotate
+UpperLeft_HoleRotate2
+UpperRight_HoleRotate2
+
+BottomRight_WallRotate1 안됨
+BottomRight_FloorRotate 더 감 ㅅㅂ
+BottomRight_HoleRotate1
+BottomRight_StairRotate
+BottomLeft_HoleRotate1
+BottomLeft_WallRotate1 안됨
+BottomLeft_FloorRotate 더 감 ㅅㅂ
+BottomLeft_StairRotate
+BottomLeft_HoleRotate2 9 -> 12
+BottomRight_HoleRotate2 
+BottomLeft_WallRotate2 11 -> 12(같은 회전인데 더 감 ㅅㅂ)
+BottomRight_WallRotate2 지정 안됨
